@@ -19,5 +19,5 @@
 ## 安全身份
 
 - 已通过 Apple 公证 (Notarized Developer ID)
-- 开发者：HOULEI PENG
-- Team ID：`E5WXP9EA8P`
+- 开发者：
+- Team ID：
